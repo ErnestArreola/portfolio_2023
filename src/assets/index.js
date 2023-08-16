@@ -30,6 +30,7 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+
 import spotify from './Spotify.webp';
 import landing from './Landing.png';
 import native from './Native.webp';

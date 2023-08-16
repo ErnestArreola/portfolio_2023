@@ -210,7 +210,7 @@ const projects = [
     live_web_link: "projects/landingpagedemo.html",
   },
   {
-    name: "Oscar De La Renta (Mobile Shop)",
+    name: "Oscar De La Renta",
     description:
       "I'll be developing a cutting-edge React Native mobile ecommerce app exclusively for showcasing and selling Oscar de la Renta's luxury products. The app will capture the brand's sophistication, delivering a seamless shopping experience that blends high fashion with digital convenience.",
     tags: [
