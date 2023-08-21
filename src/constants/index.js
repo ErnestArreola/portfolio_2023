@@ -229,7 +229,7 @@ const projects = [
     ],
     image: native,
     source_code_link: "https://github.com/ErnestArreola/Native-Commerce",
-    live_web_link: "",
+    live_web_link: "https://www.youtube.com/watch?v=TJjXZTLxano",
   },
   {
     name: "Nike Newsletter",
